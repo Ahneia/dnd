@@ -59,14 +59,12 @@ footer p{
 	}
 	
 	.wrapper{
-		background-color: green;
 		width: 100%;
-		height: 700px;	
+		height: auto;	
 		margin-left: 0;
 	}
 	
 	img{
-		width:90%;
-		margin-left: 5%;
+		width:100%;
 	}
 }
